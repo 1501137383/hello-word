@@ -1,2 +1,6 @@
 # hello-word
-this is repositoty
+this is repositot
+
+hello i'm is zzy  age 20;
+thank you
+
